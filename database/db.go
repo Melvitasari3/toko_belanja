@@ -12,7 +12,7 @@ import (
 var (
 	host     = "localhost"
 	user     = "postgres"
-	password = "1234"
+	password = "vita"
 	dbPort   = "5432"
 	dbName   = "toko-belanja"
 

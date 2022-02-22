@@ -2,7 +2,7 @@
 Final Project 4 - Scalable Web Services with Golang - Hacktiv8
 
 # Cara Penggunaan
-URL Heroku :  http://desolate-atoll-28937.herokuapp.com/
+URL Heroku :  https://toko-belanja-emf.herokuapp.com/
 
 Endpoint List :
 
